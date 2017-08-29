@@ -31,8 +31,6 @@
     
     > 點擊完後會產生編號3的檔案,下載後解壓縮並放到官方指定的路徑
     
-`http://your-Url/.well-known/acme-challenge/your-download-file-name`
-    
     > 點擊步驟4的網址可驗證檔案是否有存在路徑內
      
     > 驗證成功後可下載檔案，檔案內有三個檔案分別為
