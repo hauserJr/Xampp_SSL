@@ -26,12 +26,14 @@
 
 2. 進入SSL For Free官網輸入你要設定SSL的網址。
     > 按下 `Create Free SSL Certificate` 會產生下圖資訊
-    
+    >
     > 並依照順序點擊圖片中的步驟1跟2。
+    >
     > 點擊完後會產生編號3的檔案,下載後解壓縮並放到官方指定的路徑。
     	`http://your-Url/.well-known/acme-challenge/your-download-file-name`
+    >
     > 點擊步驟4的網址可驗證檔案是否有存在路徑內。
-     
+    >
     > 驗證成功後可下載檔案，檔案內有三個檔案分別為。
     
         1.ca_bundle.crt   `存放路徑為：xampp/apache/conf.ssl.crt`
